@@ -35,7 +35,7 @@ for(let i = 1; i <= 100; i++){
           console.log()
      })
 
-
+     
      //stampiamo dentro la griglia i div
      griglia.append( divbox )
 }
