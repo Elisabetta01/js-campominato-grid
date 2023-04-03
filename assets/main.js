@@ -17,7 +17,7 @@ function creaElementoHtml( tagHtml, classi, text){
      return elemento 
 }
 
-console.log( creaElementoHtml("div", "box") )
+console.log(creaElementoHtml("div", "box"))
 
 
 
